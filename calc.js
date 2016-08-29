@@ -1,4 +1,5 @@
 console.log("Basic HTTP Server");
+console.log("Basic HTTP Server 2");
 var http = require('http');
 
 var handlerMethod = function(req,res){
